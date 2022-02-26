@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GillesBra
 - 👀 I’m interested in teledetection from drones and image processing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning fire detection from drones
+- 💞️ I’m looking to collaborate on this topic
 - 📫 How to reach me ...
 
 <!---
